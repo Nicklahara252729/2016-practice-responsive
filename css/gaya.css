@@ -1,0 +1,8 @@
+@media only screen and (min-device-width:320px) and (max-device-width:480px), screen and (max-width:550px){
+    .kiri{
+        display: none;
+    }
+    .isimenu li{
+        display: none;
+    }
+}

@@ -1,0 +1,88 @@
+*{
+    margin: 0 auto;
+}
+body{
+    margin: 0 auto;
+}
+.bungkus{
+    width: 100%;
+}
+header{
+    width: 90%;
+    height: 150px;
+    border: solid 1px;
+    margin: 0 auto;
+}
+.container{
+    width: 90%;
+    height: 1000px;
+    margin: 0 auto;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    
+}
+.kiri{
+    float: left;
+    width: 25%;
+    border: solid 1px;
+}
+.kanan{
+    width: 72%;
+    height: 100%;
+    border: solid 1px;
+    float: right;
+    padding-top: 10px;
+}
+.menu{
+    width: 100%px;
+    height: 50px;
+    border: solid 1px;
+}
+.isimenu{
+    width: 90%;
+    height: 100%;
+    border-left: solid 1px;
+    border-right: solid 1px;
+}
+.isikiri{
+    width: 100%;
+    height: 300px;
+    border: solid 1px;
+}
+.judul{
+    width: 100%;
+    height: 50px;
+    border-bottom: solid 1px;
+}
+.isifooter{
+    width: 90%;
+}
+.tigabagian{
+    float: left;
+    width: 33.1%;
+    height: 200px;
+    border: solid 1px;
+}
+.isimenu ul{
+    list-style: none;
+}
+.isimenu ul li{
+    float: left;
+    width: 100px;
+    height: 35px;
+    padding-top:15px;
+    text-align: center;
+}
+.isimenu ul li a{
+    text-decoration: none;
+}
+.isimenu ul li:hover{
+    cursor: grab;
+    background: #005E80;
+    color: white;
+}
+.isimenu ul li:hover a{
+    color: white;
+}
